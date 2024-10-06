@@ -1,0 +1,1 @@
+export const APP_DOMAIN = process.env.APP_DOMAIN as string; // ex: 'example.com'
